@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Breno+Oliveira....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;TThis+is+Breno+Oliveira....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <p>I'm currently a developer at based in 🌁 Boituva,SP. I am working on some side projects, learning a couple new dishes, and trying to conquer the world.</p>
@@ -9,9 +9,9 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <li>🔭 I’m currently work on **personal projects**
 <li> 🌱 I’m currently learning **PHP, Laravel, Java and others**
-<li> 👨‍💻 All of my projects are available at <a href="https://www.appebusiness.com.br">portfolio</a>
+<li> 👨‍💻 All of my projects are available at <a href="https://www.appebusiness.com.br">portfolio</a>.
 <li> 📫 How to reach me **brn.in.mail@gmail.com**
-<li> 📄 Know about my experiences, <a href="https://resume.io/r/aFe8vRaQk">resume</a>
+<li> 📄 Know about my experiences, <a href="https://resume.io/r/aFe8vRaQk">resume</a>.
 <li> ⚡ Fun fact **I'm a baker too! I make pizzas and breads!**
 
 <h3 align="left">Connect with me:</h3>
