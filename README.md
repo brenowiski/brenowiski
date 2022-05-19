@@ -9,9 +9,9 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <li>🔭 I’m currently work on **personal projects**
 <li> 🌱 I’m currently learning **PHP, Laravel, Java and others**
-<li> 👨‍💻 All of my projects are available at [appebusiness.com.br](appebusiness.com.br)
+<li> 👨‍💻 All of my projects are available at <a href="https://www.appebusiness.com.br">portfolio</a>
 <li> 📫 How to reach me **brn.in.mail@gmail.com**
-<li> 📄 Know about my experiences [https://resume.io/r/aFe8vRaQk](https://resume.io/r/aFe8vRaQk)
+<li> 📄 Know about my experiences, <a href="https://resume.io/r/aFe8vRaQk">resume</a>
 <li> ⚡ Fun fact **I'm a baker too! I make pizzas and breads!**
 
 <h3 align="left">Connect with me:</h3>
