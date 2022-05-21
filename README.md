@@ -38,7 +38,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenowiski&label=Profile%20views&color=0e75b6&style=flat" alt="brenowiski" /> </p>
 
 <p align="left">
-  <img width="400" src="src/assets/to_readme/animation_500_l3fdhe26.gif">
+  <img width="300" src="src/assets/to_readme/104355-guitarist.gif">
 </p> 
 <!--
 **brenowiski/brenowiski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
