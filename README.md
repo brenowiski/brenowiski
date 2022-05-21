@@ -35,7 +35,8 @@
 
 <p><a href="https://github.com/brenowiski" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/breno-oliveira42/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
-![screencast](https://lottiefiles.com/104355-guitarist)
+![screencast](<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_c5woctcf.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenowiski&label=Profile%20views&color=0e75b6&style=flat" alt="brenowiski" /> </p>
 
